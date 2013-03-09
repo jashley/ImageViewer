@@ -1,5 +1,5 @@
 enyo.depends(
-	"$lib/layout",
-	"$lib/onyx",
+	"$lib/layout1",
+	"$lib/onyx1",
 	"ImageViewer.js"
 );
